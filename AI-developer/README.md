@@ -2,7 +2,7 @@
 
 > Venkata Bhattaram (c) 2026
 
-An extensive, beginner-to-expert **AI Developer Masterclass** with practical examples — from understanding artificial intelligence and building your first AI-powered application, through LLMs, prompt engineering, embeddings, RAG, AI agents, model integration, evaluation, security, and production deployment.
+An extensive, beginner-to-expert **AI Developer Learning Modules** with practical examples — from understanding artificial intelligence and building your first AI-powered application, through LLMs, prompt engineering, embeddings, RAG, AI agents, model integration, evaluation, security, and production deployment.
 
 ## 📚 Learning Path
 
