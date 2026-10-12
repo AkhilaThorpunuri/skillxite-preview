@@ -94,25 +94,25 @@ Build reusable components, interactive interfaces, and complete frontend applica
 
 Develop server-side logic, integrate services, manage data, and implement file handling.
 
-9. [Backend Development with Node.js](topics/09-backend-development-with-nodejs.md)
-10. [REST APIs and API Integration](topics/10-rest-apis-and-api-integration.md)
-11. [Databases, Authentication, and Authorization](topics/11-databases-authentication-and-authorization.md)
-12. [File Uploads, Media Processing, and Cloud Storage](topics/12-file-uploads-media-processing-and-cloud-storage.md)
+9. [Backend Development with Node.js](backend-web-api/09-backend-development-with-nodejs.md)
+10. [REST APIs and API Integration](backend-web-api/10-rest-apis-and-api-integration.md)
+11. [Databases, Authentication, and Authorization](backend-web-api/11-databases-authentication-and-authorization.md)
+12. [File Uploads, Media Processing, and Cloud Storage](backend-web-api/12-file-uploads-media-processing-and-cloud-storage.md)
 
 # 🤖 Phase 4: AI-Powered Web Applications
 
 Connect modern web interfaces with AI models, conversational systems, semantic search, and intelligent workflows.
 
-13. [Integrating LLMs into Web Applications](topics/13-integrating-llms-into-web-applications.md)
-14. [AI Chatbots, Streaming Responses, and Tool Calling](topics/14-ai-chatbots-streaming-responses-and-tool-calling.md)
-15. [AI Search, RAG, and Knowledge-Based Web Apps](topics/15-ai-search-rag-and-knowledge-based-web-apps.md)
-16. [AI-Powered UI Generation and Intelligent Workflows](topics/16-ai-powered-ui-generation-and-intelligent-workflows.md)
+13. [Integrating LLMs into Web Applications](ai-powered-web-applications/13-integrating-llms-into-web-applications.md)
+14. [AI Chatbots, Streaming Responses, and Tool Calling](ai-powered-web-applications/14-ai-chatbots-streaming-responses-and-tool-calling.md)
+15. [AI Search, RAG, and Knowledge-Based Web Apps](ai-powered-web-applications/15-ai-search-rag-and-knowledge-based-web-apps.md)
+16. [AI-Powered UI Generation and Intelligent Workflows](ai-powered-web-applications/16-ai-powered-ui-generation-and-intelligent-workflows.md)
 
-# 🚀 Phase 5: Production and Capstone
+# 🚀 Phase 5: Production
 
 Prepare applications for real users through security, testing, optimization, deployment, and monitoring.
 
-17. [Web Security, Testing, and Accessibility](topics/17-web-security-testing-and-accessibility.md)
-18. [Performance Optimization and SEO](topics/18-performance-optimization-and-seo.md)
-19. [Deployment, CI/CD, and Production Monitoring](topics/19-deployment-ci-cd-and-production-monitoring.md)
-20. [AI-Powered Full-Stack Web Development Capstone](topics/20-ai-powered-full-stack-web-development-capstone.md)
+17. [Web Security, Testing, and Accessibility](production/17-web-security-testing-and-accessibility.md)
+18. [Performance Optimization and SEO](production/18-performance-optimization-and-seo.md)
+19. [Deployment, CI/CD, and Production Monitoring](production/19-deployment-ci-cd-and-production-monitoring.md)
+
