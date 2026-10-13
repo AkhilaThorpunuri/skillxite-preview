@@ -60,36 +60,36 @@ Understand the mobile ecosystem, UI/UX fundamentals, development tools, and appl
 
 Create interactive mobile screens, manage state, validate input, and build polished user experiences.
 
-5. [React Native Components and Styling](topics/05-react-native-components-and-styling.md)
-6. [Navigation, State Management, and Hooks](topics/06-navigation-state-management-and-hooks.md)
-7. [Forms, Validation, and User Interaction](topics/07-forms-validation-and-user-interaction.md)
-8. [Animations, Gestures, and Native UI Patterns](topics/08-animations-gestures-and-native-ui-patterns.md)
+5. [React Native Components and Styling](interactive-applications/05-react-native-components-and-styling.md)
+6. [Navigation, State Management, and Hooks](interactive-applications/06-navigation-state-management-and-hooks.md)
+7. [Forms, Validation, and User Interaction](interactive-applications/07-forms-validation-and-user-interaction.md)
+8. [Animations, Gestures, and Native UI Patterns](interactive-applications/08-animations-gestures-and-native-ui-patterns.md)
 
 ### Phase 3: Data, APIs, and Device Capabilities
 
 Connect applications to external services, persist data, secure user accounts, and work with device capabilities.
 
-9. [REST APIs and Backend Integration](topics/09-rest-apis-and-backend-integration.md)
-10. [Local Storage, Offline Support, and Synchronization](topics/10-local-storage-offline-support-and-synchronization.md)
-11. [Authentication, Authorization, and Secure Data](topics/11-authentication-authorization-and-secure-data.md)
-12. [Device Features: Camera, Location, Notifications, and Files](topics/12-device-features-camera-location-notifications-and-files.md)
+9. [REST APIs and Backend Integration](data-api-device-capabilities/09-rest-apis-and-backend-integration.md)
+10. [Local Storage, Offline Support, and Synchronization](data-api-device-capabilities/10-local-storage-offline-support-and-synchronization.md)
+11. [Authentication, Authorization, and Secure Data](data-api-device-capabilities/11-authentication-authorization-and-secure-data.md)
+12. [Device Features: Camera, Location, Notifications, and Files](data-api-device-capabilities/12-device-features-camera-location-notifications-and-files.md)
 
 ### Phase 4: AI-Powered Mobile Applications
 
 Add generative AI, voice interactions, image understanding, and intelligent multi-step workflows.
 
-13. [Integrating LLMs into Mobile Applications](topics/13-integrating-llms-into-mobile-applications.md)
-14. [AI Chatbots, Streaming Responses, and Voice Assistants](topics/14-ai-chatbots-streaming-responses-and-voice-assistants.md)
-15. [AI Vision, Image Understanding, and On-Device AI](topics/15-ai-vision-image-understanding-and-on-device-ai.md)
-16. [AI Agents and Intelligent Mobile Workflows](topics/16-ai-agents-and-intelligent-mobile-workflows.md)
+13. [Integrating LLMs into Mobile Applications](ai-powered-mobile-applications/13-integrating-llms-into-mobile-applications.md)
+14. [AI Chatbots, Streaming Responses, and Voice Assistants](ai-powered-mobile-applications/14-ai-chatbots-streaming-responses-and-voice-assistants.md)
+15. [AI Vision, Image Understanding, and On-Device AI](ai-powered-mobile-applications/15-ai-vision-image-understanding-and-on-device-ai.md)
+16. [AI Agents and Intelligent Mobile Workflows](ai-powered-mobile-applications/16-ai-agents-and-intelligent-mobile-workflows.md)
 
 ### Phase 5: Testing and Release
 
 Prepare the application for real users through testing, security, optimization, publishing, and monitoring.
 
-17. [Mobile App Security, Testing, and Accessibility](production/17-mobile-app-security-testing-and-accessibility.md)
-18. [Mobile Performance, Offline Reliability, and Battery Optimization](production/18-mobile-performance-offline-reliability-and-battery-optimization.md)
-19. [App Builds, CI/CD, Store Publishing, and Monitoring](production/19-app-builds-ci-cd-store-publishing-and-monitoring.md)
+17. [Mobile App Security, Testing, and Accessibility](testing-release/17-mobile-app-security-testing-and-accessibility.md)
+18. [Mobile Performance, Offline Reliability, and Battery Optimization](testing-release/18-mobile-performance-offline-reliability-and-battery-optimization.md)
+19. [App Builds, CI/CD, Store Publishing, and Monitoring](testing-release/19-app-builds-ci-cd-store-publishing-and-monitoring.md)
 
 
 
